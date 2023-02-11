@@ -1,0 +1,22 @@
+{
+  "name": "smartcontractwallet",
+  "version": "1.0.0",
+  "description": "This is a simple smart contract for wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1anyway/SmartContractWallet.git"
+  },
+  "author": "Joe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1anyway/SmartContractWallet/issues"
+  },
+  "homepage": "https://github.com/1anyway/SmartContractWallet#readme",
+  "dependencies": {
+    "hardhat": "^2.12.7"
+  }
+}
